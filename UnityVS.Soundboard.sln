@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Soundboard.CSharp", "UnityVS.Soundboard.CSharp.csproj", "{75187574-D2EE-7B31-EAE2-510F3C749254}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75187574-D2EE-7B31-EAE2-510F3C749254}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75187574-D2EE-7B31-EAE2-510F3C749254}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75187574-D2EE-7B31-EAE2-510F3C749254}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75187574-D2EE-7B31-EAE2-510F3C749254}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
